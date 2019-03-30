@@ -9,6 +9,7 @@ namespace _732152
    
     
 
+
         class Program
         {
             static void Main(string[] args)
